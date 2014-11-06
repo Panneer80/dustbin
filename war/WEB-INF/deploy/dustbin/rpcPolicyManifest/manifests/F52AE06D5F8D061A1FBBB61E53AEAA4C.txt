@@ -1,0 +1,2 @@
+serviceClass: com.dustbin.plastic.client.GreetingService
+path: F8E1D1369F79617BF1A7AFEB307B2911.gwt.rpc
